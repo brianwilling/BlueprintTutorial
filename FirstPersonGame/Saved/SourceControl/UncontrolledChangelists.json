@@ -5,7 +5,14 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"/Users/rudolfwilling/Desktop/GitHub/BlueprintTutorial/FirstPersonGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/AI/0XWE3RNM2XQC0ST1KXG02O.uasset"
+				"/Users/rudolfwilling/Desktop/GitHub/BlueprintTutorial/FirstPersonGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/AI/0XWE3RNM2XQC0ST1KXG02O.uasset",
+				"/Users/rudolfwilling/Desktop/GitHub/BlueprintTutorial/FirstPersonGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/M1/47XDU02OVEY14AAY3H6AEB.uasset",
+				"/Users/rudolfwilling/Desktop/GitHub/BlueprintTutorial/FirstPersonGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/PB/XXG2N6LH4C1116GWNXP1Y5.uasset",
+				"/Users/rudolfwilling/Desktop/GitHub/BlueprintTutorial/FirstPersonGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/T1/AEH5JJGL6UUL3XTUD2EQD6.uasset",
+				"/Users/rudolfwilling/Desktop/GitHub/BlueprintTutorial/FirstPersonGame/Content/FirstPerson/Maps/FirstPersonMap.umap",
+				"/Users/rudolfwilling/Desktop/GitHub/BlueprintTutorial/FirstPersonGame/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"/Users/rudolfwilling/Desktop/GitHub/BlueprintTutorial/FirstPersonGame/Content/FirstPerson/Blueprints/BP_Target.uasset",
+				"/Users/rudolfwilling/Desktop/GitHub/BlueprintTutorial/FirstPersonGame/Content/FirstPerson/Blueprints/GM_TargetGame.uasset"
 			]
 		}
 	]
