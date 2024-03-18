@@ -12,7 +12,12 @@
 				"/Users/rudolfwilling/Desktop/GitHub/BlueprintTutorial/FirstPersonGame/Content/FirstPerson/Maps/FirstPersonMap.umap",
 				"/Users/rudolfwilling/Desktop/GitHub/BlueprintTutorial/FirstPersonGame/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"/Users/rudolfwilling/Desktop/GitHub/BlueprintTutorial/FirstPersonGame/Content/FirstPerson/Blueprints/BP_Target.uasset",
-				"/Users/rudolfwilling/Desktop/GitHub/BlueprintTutorial/FirstPersonGame/Content/FirstPerson/Blueprints/GM_TargetGame.uasset"
+				"/Users/rudolfwilling/Desktop/GitHub/BlueprintTutorial/FirstPersonGame/Content/FirstPerson/Blueprints/GM_TargetGame.uasset",
+				"/Users/rudolfwilling/Desktop/GitHub/BlueprintTutorial/FirstPersonGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/31/OV2JWK5RFZWWKB0WI6BHFF.uasset",
+				"/Users/rudolfwilling/Desktop/GitHub/BlueprintTutorial/FirstPersonGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/WB/V4ALNTJYOVWM8BU452CKV5.uasset",
+				"/Users/rudolfwilling/Desktop/GitHub/BlueprintTutorial/FirstPersonGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/0Z/5RQIHCZ9W3UXRGL4LTLQAK.uasset",
+				"/Users/rudolfwilling/Desktop/GitHub/BlueprintTutorial/FirstPersonGame/Content/FirstPerson/Blueprints/WBP_EndScreen.uasset",
+				"/Users/rudolfwilling/Desktop/GitHub/BlueprintTutorial/FirstPersonGame/Content/FirstPerson/Blueprints/WBP_UI.uasset"
 			]
 		}
 	]
